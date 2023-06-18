@@ -1,2 +1,2 @@
 # ggts
-Visualizing ts objects in ggplot
+Visualizing ts objects Using ggplot
