@@ -7,7 +7,7 @@ Visualizing ts objects Using ggplot
 ## Installation
 
 ``` r
-devtools::install_github("tonyy22/ggts")
+devtools::install_github("tonyy01/ggts")
 ```
 
 ## Usage
